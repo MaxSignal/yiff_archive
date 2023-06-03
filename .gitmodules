@@ -13,3 +13,6 @@
 [submodule "Hanekawa"]
 	path = Hanekawa
 	url = git@github.com:MaxSignal/Hanekawa
+[submodule "PixivUtil2"]
+	path = PixivUtil2
+	url = git@github.com:MaxSignal/PixivUtil2
