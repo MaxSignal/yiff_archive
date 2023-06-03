@@ -1,0 +1,15 @@
+[submodule "Kitsune"]
+	path = Kitsune
+	url = git@github.com:MaxSignal/Kitsune
+[submodule "Kemono2"]
+	path = Kemono2
+	url = git@github.com:MaxSignal/Kemono2
+[submodule "Kemono"]
+	path = Kemono
+	url = git@github.com:MaxSignal/Kemono
+[submodule "sdkdd"]
+	path = sdkdd
+	url = git@github.com:MaxSignal/sdkdd
+[submodule "Hanekawa"]
+	path = Hanekawa
+	url = git@github.com:MaxSignal/Hanekawa
